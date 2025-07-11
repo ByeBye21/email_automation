@@ -95,28 +95,10 @@ PyQt5>=5.15.0
 
 Your CSV file can have any structure. Common examples:
 
-**Basic Format:**
-
 ```csv
 email,name,company
 john.doe@example.com,John Doe,Acme Corp
 jane.smith@example.com,Jane Smith,Tech Solutions
-```
-
-**Extended Format:**
-
-```csv
-email_address,first_name,last_name,company_name,position,city
-john.doe@example.com,John,Doe,Acme Corporation,Software Engineer,New York
-jane.smith@example.com,Jane,Smith,Tech Solutions,Marketing Manager,Los Angeles
-```
-
-**Any Column Names Work:**
-
-```csv
-contact_email,full_name,business,role
-john@company.com,John Doe,ABC Company,Developer
-jane@business.com,Jane Smith,XYZ Business,Manager
 ```
 
 
