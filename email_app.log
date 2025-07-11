@@ -1,0 +1,19 @@
+2025-07-11 23:17:27 - INFO - info:140 - Logging initialized - File: email_app.log
+2025-07-11 23:17:27 - INFO - info:140 - CSV columns found: email, name, last_name
+2025-07-11 23:17:27 - INFO - info:140 - Loaded 3 valid recipients from CSV
+2025-07-11 23:17:30 - INFO - info:140 - CSV columns found: email, name, last_name
+2025-07-11 23:17:30 - INFO - info:140 - Loaded 3 valid recipients from CSV
+2025-07-11 23:17:44 - INFO - info:140 - Sending email to: your_email@gmail.com
+2025-07-11 23:17:44 - INFO - info:140 - SMTP CONNECT - smtp.gmail.com:587 - User: your_email@gmail.com
+2025-07-11 23:17:45 - ERROR - error:148 - EMAIL FAILED ✗ - To: your_email@gmail.com - Subject: 'Email Application Test - 2025-07-11 23:17:44' - Error: SMTP authentication failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b5e8dc91d8sm5279637f8f.42 - gsmtp')
+2025-07-11 23:17:45 - ERROR - error:148 - TEST EMAIL ✗ - Failed to: your_email@gmail.com - Error: SMTP error: SMTP authentication failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b5e8dc91d8sm5279637f8f.42 - gsmtp')
+2025-07-11 23:21:23 - INFO - info:140 - Logging initialized - File: email_app.log
+2025-07-11 23:21:23 - INFO - info:140 - CSV columns found: email, name, last_name
+2025-07-11 23:21:23 - INFO - info:140 - Loaded 3 valid recipients from CSV
+2025-07-11 23:21:26 - INFO - info:140 - CSV columns found: email, name, last_name
+2025-07-11 23:21:26 - INFO - info:140 - Loaded 3 valid recipients from CSV
+2025-07-11 23:22:21 - INFO - info:140 - Logging initialized - File: email_app.log
+2025-07-11 23:22:21 - INFO - info:140 - CSV columns found: email, name, last_name
+2025-07-11 23:22:21 - INFO - info:140 - Loaded 3 valid recipients from CSV
+2025-07-11 23:22:24 - INFO - info:140 - CSV columns found: email, name, last_name
+2025-07-11 23:22:24 - INFO - info:140 - Loaded 3 valid recipients from CSV

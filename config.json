@@ -1,0 +1,30 @@
+{
+  "_comment": "Email Application Configuration File",
+  "_description": "Configure SMTP settings, file paths, and application options",
+  
+  "smtp": {
+    "_comment": "SMTP server configuration - Update with your email provider settings",
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "username": "your_email@gmail.com",
+    "password": "your_app_password",
+    "use_tls": true,
+    "use_ssl": false,
+    "timeout": 30
+  },
+  
+  "files": {
+    "_comment": "File paths for input and output",
+    "csv_recipients": "./recipients.csv",
+    "output_directory": "./output",
+    "log_directory": "./logs"
+  },
+  
+  "application": {
+    "_comment": "Application settings",
+    "debug": false,
+    "max_attachments": 10,
+    "max_file_size_mb": 25,
+    "batch_size": 100
+  }
+}
