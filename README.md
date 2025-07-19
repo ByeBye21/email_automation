@@ -258,9 +258,3 @@ EmailAutomation/
 2. **Test Configuration:** Use the connection test feature
 3. **Verify CSV Format:** Ensure proper CSV structure
 4. **Contact Support:** younes0079@gmail.com
-
-## 📧 Contact \& Support
-
-- **Developer:** ByeBye21
-- **Email:** younes0079@gmail.com
-- **GitHub:** [github.com/ByeBye21](https://github.com/ByeBye21)
