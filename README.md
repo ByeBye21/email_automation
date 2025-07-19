@@ -67,6 +67,8 @@ PyQt5>=5.15.0
 2. Generate an App Password: Google Account → Security → App Passwords
 3. Use the generated 16-character password in the application
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/38039d51-592e-4d06-bffd-08f7a44b97e6" />
+
 ### 2. Load Recipients
 
 - **Upload CSV:** Select your recipients file (default: `./recipients.csv`)
