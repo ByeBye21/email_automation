@@ -69,12 +69,15 @@ PyQt5>=5.15.0
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/38039d51-592e-4d06-bffd-08f7a44b97e6" />
 
+
 ### 2. Load Recipients
 
 - **Upload CSV:** Select your recipients file (default: `./recipients.csv`)
 - **Column Selection:** Choose which column contains email addresses
 - **Preview Data:** Review recipients and available attributes
 - **No Format Restrictions:** Any CSV structure is supported
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/451eadb3-b817-4dd7-aed1-8c6a0c4980a9" />
 
 
 ### 3. Compose Your Email
@@ -84,6 +87,8 @@ PyQt5>=5.15.0
 - **Personalization:** Click attribute dropdowns to insert {{name}}, {{company}}, etc.
 - **Attachments:** Add files with drag-and-drop or browse button
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3795dd39-f52e-4dd0-a748-718b540160d0" />
+
 
 ### 4. Launch Campaign
 
@@ -91,6 +96,8 @@ PyQt5>=5.15.0
 - **Monitor Progress:** Real-time progress tracking with statistics
 - **Campaign Results:** Detailed success/failure reporting
 - **Activity Logs:** Complete audit trail of all operations
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a8f7f790-89ef-4593-82f9-4d37e2f72405" />
 
 
 ## 📝 CSV Format
